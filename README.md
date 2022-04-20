@@ -1,2 +1,2 @@
 # CNN_architecture
-Different CNN architecture implementation is done. It includes LeNet, AlexNet,VGGNet,Inception,Resnet
+Different CNN architecture like LeNet, AlexNet,VGGNet,Inception,Resnet is included in this repo
